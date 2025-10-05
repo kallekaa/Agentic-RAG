@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# chroma db files
+.chroma/
+
+# pytest files
+.pytest_cache/
